@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently a **Bachelor student** at EPFL. And learning programmation for chemistry. 
- I worked on a project called [Thermopred](https://github.com/May-db/ThermoPred)
+ I worked on a project called [Thermopred](https://github.com/May-db/ThermoPred) An interactive chemical modeling tool that predicts reaction outcomes and thermodynamic stability from hand-drawn molecular inputs. Check it out!
 <!--
 **mariak2707/mariak2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
